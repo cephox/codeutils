@@ -1,5 +1,5 @@
-# C-CPP-Utils
-A collection of c and c++ useful code snippets
+# Code Utils
+A collection of useful code snippets.
 
 ---
 ## How to contribute
