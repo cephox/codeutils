@@ -1,5 +1,5 @@
 # Code Utils
-A collection of useful code snippets.
+A collection of useful code snippets (And other Stuff).
 
 ---
 ## How to contribute
